@@ -1,68 +1,70 @@
-📘 Math for AI/ML – College Algebra & Precalculus with Python
-Welcome to my open-source math learning journey built with 💡 clarity, code, and curiosity.
+📘 Math for AI/ML – Algebra, Precalculus & Calculus with Python
+Welcome to my open-source math repo — built at the intersection of clarity, code, and curiosity.
 
-This repo is a part of a structured series that blends mathematical intuition with hands-on coding using Python & Jupyter Notebooks — tailored for learners entering fields like AI, ML, Data Science, Game Dev, or Software Engineering.
+As someone deeply passionate about AI/ML, I believe mathematical thinking is the real power behind intelligent systems. That’s why I’m rebuilding the core — from College Algebra to Calculus — using Python + Jupyter Notebooks to connect abstract theory with real code.
 
 📚 What’s Inside
-✅ College Algebra (Beginner–Intermediate)
-A complete foundation in algebra, visualized and coded. Concepts are not only taught—they're applied.
+✅ College Algebra
+Solid algebraic grounding is the backbone of applied mathematics. I’ve translated this foundation into interactive notebooks with math problems coded, visualized, and explored.
 
-Notebook Title	What You’ll Learn
-Demand and Revenue	Real-life linear models for business & economics
-Exponents and Logarithms	Laws, simplifications, and exponential applications
-Factoring	GCF, trinomials, difference of squares
-Fractions and Decimals	Simplifying and operating on rational numbers
-Functions	Domain, range, evaluation, and types of functions
-Graphing	Coordinate plane, intercepts, and behavior
-Parent Graphs	Visualizing and identifying common graph shapes
-Proportions	Solving with ratios and real-world cases
-Quadratics	Forms, solving methods, and graphing
-Simple & Compound Interest	Finance-focused exponential growth/decay
-Slope (Sloping)	Rise/run, parallelism, and graph interpretation
-Solving Systems	Graphical, substitution & elimination methods
-Word Problems	Applying algebra to practical scenarios
+📓 Notebook Title	💡 Key Concepts
+Functions, Slope, Quadratics	Domain, range, intercepts, forms
+Exponents, Logarithms	Rules, applications, base changes
+Graphing & Parent Graphs	Coordinate geometry, shape intuition
+Fractions, Factoring, Proportions	Algebraic manipulation and logic
+Demand, Revenue & Interest	Real-world linear & exponential models
+Solving Systems & Word Problems	Multiple solving strategies
 
-🧮 Precalculus (In Progress, Intermediate–Advanced)
-A rich blend of math + code + visual exploration.
+🧮 Precalculus (Intermediate–Advanced)
+This section dives into trigonometry, probability, complex numbers, and matrices — with math rendered beautifully in code.
 
-Notebook Title	Skill Highlights
-Unit Circle, Trig Graphs, Law of Sines/Cosines	Master trigonometry
-Complex Numbers	Real + Imaginary math
-Matrices & Inverse	Solving systems and transformations
-Pascal’s Triangle & Series	Combinatorics and patterns
-Graphing the Mandelbrot Set	Algebra meets fractals
-Probability & Gambling Math	Fun, practical statistics
-Encoding & Decoding Messages	Math in cryptography
-Building a Clock with Trig	Creative applications
+📓 Notebook Title	💡 Skill Highlights
+Unit Circle & Trig Graphs	Core trig concepts + visualizations
+Law of Sines & Cosines	Triangle solving techniques
+Pascal’s Triangle & Series	Combinatorics & patterns
+Mandelbrot Set	Fractals meet algebra
+Probability & Gambling Math	Fun + practical applications
+Clock with Trig	Creativity with coordinates
 
-📂 Full folder: Precalculus/
+📐 College Calculus (New)
+This is where things get real — derivatives, limits, Riemann sums, areas under curves, and physical applications like projectile motion, center of mass, and volumes of revolution.
+
+📓 Notebook Title	💡 Core Topics
+Derivatives, Chain Rule, Implicit Diff	Foundational differentiation
+Related Rates, Mean Value Theorem	Applied motion & analysis
+Limits, Tangents, Product/Quotient Rule	Fundamental calculus logic
+Area Between Curves, Surface Area	Definite integrals in action
+Center of Mass, Volumes (X/Y-axis)	Physical interpretations
+Riemann Sums, Fundamental Theorem	From discrete to continuous
+
+📂 Full folder: /College Calculus/
 
 🔧 Tech Stack
 🐍 Python
 
 📓 Jupyter Notebooks
 
-📈 Matplotlib, Plotly (for visualizations)
+📈 Matplotlib, Plotly
 
 🧮 SymPy, NumPy
 
-🚀 Why This?
-While pursuing my MCA in AI/ML, I realized most learners struggle with the math behind the models. So, I created this series to help:
+🧭 Why I Built This
+As an MCA student specializing in AI/ML, I realized math isn't a barrier—it's a bridge. This repo reflects my structured journey to:
 
-Solidify math intuition
+🔍 Build deep mathematical intuition
 
-Connect math ↔ code
+🔄 Map math ↔ code in real-time
 
-Enable hands-on practice before diving into AI/ML algorithms
+🧪 Prepare for advanced AI/ML models with confidence
 
-This is just the beginning.
+This isn’t a tutorial. It’s my evolving skillset, shared openly.
 
 🙋‍♀️ About Me
-Hi, I’m Hiral Kanakhara, a passionate software developer and problem solver currently pursuing an MCA with a specialization in Artificial Intelligence and Machine Learning.
+Hi, I’m Hiral Kanakhara — a passionate software developer and AI/ML learner, currently focused on building a powerful mathematical foundation for intelligent systems.
 
-🔍 I’m focused on building a strong foundation in Mathematics for AI/ML, and this repo is a reflection of my structured learning path.
+I’ve also solved 400+ problems on LeetCode, contribute to open source, and build across web and data ecosystems.
 
-🧠 I also work extensively in DSA (400+ LeetCode problems), Web Development, and Open Source.
+📫 Let’s connect on LinkedIn
+🌐 More projects on GitHub
 
-Let’s connect on LinkedIn or explore my other GitHub Repositories.
 
