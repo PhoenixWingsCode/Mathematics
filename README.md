@@ -1,70 +1,82 @@
 📘 Math for AI/ML – Algebra, Precalculus & Calculus with Python
-Welcome to my open-source math repo — built at the intersection of clarity, code, and curiosity.
+This repository is my personal mathematics coding lab — where pure math meets Python, and abstract ideas get turned into tangible, visual, and coded results.
 
-As someone deeply passionate about AI/ML, I believe mathematical thinking is the real power behind intelligent systems. That’s why I’m rebuilding the core — from College Algebra to Calculus — using Python + Jupyter Notebooks to connect abstract theory with real code.
+I’ve built this as part of my MCA (AI/ML specialization) journey, ensuring that every concept I study is coded, visualized, and tested. From algebraic basics to calculus applications, each notebook is proof of how I bridge mathematical theory ↔ computational execution.
 
-📚 What’s Inside
+Core Sections & Skills Demonstrated
 ✅ College Algebra
-Solid algebraic grounding is the backbone of applied mathematics. I’ve translated this foundation into interactive notebooks with math problems coded, visualized, and explored.
+Concepts Implemented: Functions, slopes, quadratics, exponents, logarithms, graphing, factoring, proportions, demand/revenue models, interest calculations, solving systems.
 
-📓 Notebook Title	💡 Key Concepts
-Functions, Slope, Quadratics	Domain, range, intercepts, forms
-Exponents, Logarithms	Rules, applications, base changes
-Graphing & Parent Graphs	Coordinate geometry, shape intuition
-Fractions, Factoring, Proportions	Algebraic manipulation and logic
-Demand, Revenue & Interest	Real-world linear & exponential models
-Solving Systems & Word Problems	Multiple solving strategies
+Skills Shown:
+
+Translating equations into Python for dynamic visualization
+
+Applying real-world finance & economics use-cases
+
+Symbolic manipulation with SymPy
 
 🧮 Precalculus (Intermediate–Advanced)
-This section dives into trigonometry, probability, complex numbers, and matrices — with math rendered beautifully in code.
+Concepts Implemented: Trigonometry (unit circle, transformations), complex numbers, matrix operations, Pascal’s triangle, probability, Mandelbrot set, math in cryptography, creative applications like trig-based clock building.
 
-📓 Notebook Title	💡 Skill Highlights
-Unit Circle & Trig Graphs	Core trig concepts + visualizations
-Law of Sines & Cosines	Triangle solving techniques
-Pascal’s Triangle & Series	Combinatorics & patterns
-Mandelbrot Set	Fractals meet algebra
-Probability & Gambling Math	Fun + practical applications
-Clock with Trig	Creativity with coordinates
+Skills Shown:
 
-📐 College Calculus (New)
-This is where things get real — derivatives, limits, Riemann sums, areas under curves, and physical applications like projectile motion, center of mass, and volumes of revolution.
+Integrating math with creative coding projects
 
-📓 Notebook Title	💡 Core Topics
-Derivatives, Chain Rule, Implicit Diff	Foundational differentiation
-Related Rates, Mean Value Theorem	Applied motion & analysis
-Limits, Tangents, Product/Quotient Rule	Fundamental calculus logic
-Area Between Curves, Surface Area	Definite integrals in action
-Center of Mass, Volumes (X/Y-axis)	Physical interpretations
-Riemann Sums, Fundamental Theorem	From discrete to continuous
+Visualizing patterns and complex plane behavior
 
-📂 Full folder: /College Calculus/
+Applying combinatorics & probability in simulations
 
-🔧 Tech Stack
-🐍 Python
+📐 College Calculus (Advanced)
+Concepts Implemented: Derivatives, limits, related rates, chain/product/quotient rules, Riemann sums, surface areas, volumes of revolution, projectile motion, center of mass.
 
-📓 Jupyter Notebooks
+Skills Shown:
 
-📈 Matplotlib, Plotly
+Bridging calculus concepts to physics-based applications
 
-🧮 SymPy, NumPy
+Computing areas/volumes programmatically
 
-🧭 Why I Built This
-As an MCA student specializing in AI/ML, I realized math isn't a barrier—it's a bridge. This repo reflects my structured journey to:
+Symbolic & numeric differentiation/integration
 
-🔍 Build deep mathematical intuition
+📊 Library (Data & Analysis Utilities)
+Contents: Olympics datasets, warm-up data (CSV, Excel, Parquet, Feather formats), and dedicated notebooks on NumPy, Pandas, and Matplotlib.
 
-🔄 Map math ↔ code in real-time
+Skills Shown:
 
-🧪 Prepare for advanced AI/ML models with confidence
+Data preprocessing in multiple formats
 
-This isn’t a tutorial. It’s my evolving skillset, shared openly.
+High-quality visualizations
 
-🙋‍♀️ About Me
-Hi, I’m Hiral Kanakhara — a passionate software developer and AI/ML learner, currently focused on building a powerful mathematical foundation for intelligent systems.
+Efficient numerical computation
 
-I’ve also solved 400+ problems on LeetCode, contribute to open source, and build across web and data ecosystems.
+Tech Stack
+Languages: Python
 
-📫 Let’s connect on LinkedIn
-🌐 More projects on GitHub
+Tools: Jupyter Notebooks
 
+Libraries: NumPy, SymPy, Matplotlib, Plotly, Pandas
+
+Data Skills: Reading/wrangling multiple data formats (CSV, Excel, Parquet, Feather)
+
+Why I Built This
+For me, math isn’t just a subject — it’s the foundation of AI/ML. This repo is the record of my progression, combining:
+
+Mathematical depth
+
+Algorithmic thinking
+
+Code-based problem solving
+
+Every file here is a deliberate, structured step toward becoming a professional who can not only use AI/ML libraries but understand the math driving them.
+
+About Me
+I’m Hiral Kanakhara — MCA student (AI/ML specialization), software developer, and problem solver.
+
+📈 Solved 400+ DSA problems on LeetCode
+
+🌐 Built projects across web, data, and AI/ML domains
+
+🤝 Active in open-source contributions
+
+📫 Connect on LinkedIn
+🌐 See more on GitHub
 
